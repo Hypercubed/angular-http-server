@@ -1,5 +1,5 @@
 {
-    "name": "angular-http-server",
+    "name": "@hypercubed/angular-http-server",
     "version": "1.11.1",
     "author": "Simon Hampton",
     "license": "ISC",
