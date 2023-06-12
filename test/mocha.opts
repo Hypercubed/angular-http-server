@@ -1,2 +1,2 @@
---require chai/register-expect
+--require chai/register-expect.js
 lib/**/*.spec.js
